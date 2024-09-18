@@ -28,6 +28,7 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 
-![Blank diagram](https://github.com/user-attachments/assets/2e1fecea-62b5-4504-a237-183b33f090b3)
+![adapterPattern_Diagram](https://github.com/user-attachments/assets/ec6f2ed4-2958-449a-af2e-78cbe8e239eb)
+
 
   
