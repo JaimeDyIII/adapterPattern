@@ -27,3 +27,7 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here.
   UML Class Diagram
   Uploaded java codes for the solution.
+
+![Blank diagram](https://github.com/user-attachments/assets/2e1fecea-62b5-4504-a237-183b33f090b3)
+
+  
